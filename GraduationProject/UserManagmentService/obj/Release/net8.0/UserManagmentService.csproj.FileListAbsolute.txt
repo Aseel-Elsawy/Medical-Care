@@ -1,0 +1,28 @@
+D:\GraduationProject\UserManagmentService\bin\Release\net8.0\UserManagmentService.deps.json
+D:\GraduationProject\UserManagmentService\bin\Release\net8.0\UserManagmentService.runtimeconfig.json
+D:\GraduationProject\UserManagmentService\bin\Release\net8.0\UserManagmentService.dll
+D:\GraduationProject\UserManagmentService\bin\Release\net8.0\UserManagmentService.pdb
+D:\GraduationProject\UserManagmentService\obj\Release\net8.0\UserManagmentService.csproj.AssemblyReference.cache
+D:\GraduationProject\UserManagmentService\obj\Release\net8.0\UserManagmentService.GeneratedMSBuildEditorConfig.editorconfig
+D:\GraduationProject\UserManagmentService\obj\Release\net8.0\UserManagmentService.AssemblyInfoInputs.cache
+D:\GraduationProject\UserManagmentService\obj\Release\net8.0\UserManagmentService.AssemblyInfo.cs
+D:\GraduationProject\UserManagmentService\obj\Release\net8.0\UserManagmentService.csproj.CoreCompileInputs.cache
+D:\GraduationProject\UserManagmentService\obj\Release\net8.0\UserManagmentService.dll
+D:\GraduationProject\UserManagmentService\obj\Release\net8.0\refint\UserManagmentService.dll
+D:\GraduationProject\UserManagmentService\obj\Release\net8.0\UserManagmentService.pdb
+D:\GraduationProject\UserManagmentService\obj\Release\net8.0\UserManagmentService.genruntimeconfig.cache
+D:\GraduationProject\UserManagmentService\obj\Release\net8.0\ref\UserManagmentService.dll
+G:\new project\GraduationProject\UserManagmentService\bin\Release\net8.0\UserManagmentService.deps.json
+G:\new project\GraduationProject\UserManagmentService\bin\Release\net8.0\UserManagmentService.runtimeconfig.json
+G:\new project\GraduationProject\UserManagmentService\bin\Release\net8.0\UserManagmentService.dll
+G:\new project\GraduationProject\UserManagmentService\bin\Release\net8.0\UserManagmentService.pdb
+G:\new project\GraduationProject\UserManagmentService\obj\Release\net8.0\UserManagmentService.csproj.AssemblyReference.cache
+G:\new project\GraduationProject\UserManagmentService\obj\Release\net8.0\UserManagmentService.GeneratedMSBuildEditorConfig.editorconfig
+G:\new project\GraduationProject\UserManagmentService\obj\Release\net8.0\UserManagmentService.AssemblyInfoInputs.cache
+G:\new project\GraduationProject\UserManagmentService\obj\Release\net8.0\UserManagmentService.AssemblyInfo.cs
+G:\new project\GraduationProject\UserManagmentService\obj\Release\net8.0\UserManagmentService.csproj.CoreCompileInputs.cache
+G:\new project\GraduationProject\UserManagmentService\obj\Release\net8.0\UserManagmentService.dll
+G:\new project\GraduationProject\UserManagmentService\obj\Release\net8.0\refint\UserManagmentService.dll
+G:\new project\GraduationProject\UserManagmentService\obj\Release\net8.0\UserManagmentService.pdb
+G:\new project\GraduationProject\UserManagmentService\obj\Release\net8.0\UserManagmentService.genruntimeconfig.cache
+G:\new project\GraduationProject\UserManagmentService\obj\Release\net8.0\ref\UserManagmentService.dll

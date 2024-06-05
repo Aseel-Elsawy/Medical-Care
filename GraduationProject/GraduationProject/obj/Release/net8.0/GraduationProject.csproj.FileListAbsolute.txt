@@ -1,0 +1,314 @@
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\appsettings.Development.json
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\appsettings.json
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\GraduationProject.exe
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\GraduationProject.deps.json
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\GraduationProject.runtimeconfig.json
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\GraduationProject.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\GraduationProject.pdb
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Azure.Core.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Azure.Identity.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\FluentAssertions.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Humanizer.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\MailKit.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.CodeAnalysis.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.Data.SqlClient.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.Identity.Client.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.OpenApi.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.PowerBI.Api.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.Rest.ClientRuntime.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.SqlServer.Server.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\MimeKit.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Mono.TextTemplating.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\NETCore.MailKit.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Newtonsoft.Json.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Newtonsoft.Json.Bson.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\BouncyCastle.Crypto.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\System.CodeDom.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\System.Composition.AttributedModel.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\System.Composition.Convention.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\System.Composition.Hosting.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\System.Composition.Runtime.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\System.Composition.TypedParts.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\System.Drawing.Common.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\System.Memory.Data.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\System.Runtime.Caching.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\System.Security.Permissions.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\System.Windows.Extensions.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\UserManagmentService.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\UserManagmentService.pdb
+D:\GraduationProject\GraduationProject\obj\Release\net8.0\GraduationProject.csproj.AssemblyReference.cache
+D:\GraduationProject\GraduationProject\obj\Release\net8.0\GraduationProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\GraduationProject\GraduationProject\obj\Release\net8.0\GraduationProject.AssemblyInfoInputs.cache
+D:\GraduationProject\GraduationProject\obj\Release\net8.0\GraduationProject.AssemblyInfo.cs
+D:\GraduationProject\GraduationProject\obj\Release\net8.0\GraduationProject.csproj.CoreCompileInputs.cache
+D:\GraduationProject\GraduationProject\obj\Release\net8.0\GraduationProject.MvcApplicationPartsAssemblyInfo.cs
+D:\GraduationProject\GraduationProject\obj\Release\net8.0\GraduationProject.MvcApplicationPartsAssemblyInfo.cache
+D:\GraduationProject\GraduationProject\obj\Release\net8.0\staticwebassets.build.json
+D:\GraduationProject\GraduationProject\obj\Release\net8.0\staticwebassets.development.json
+D:\GraduationProject\GraduationProject\obj\Release\net8.0\staticwebassets\msbuild.GraduationProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GraduationProject\GraduationProject\obj\Release\net8.0\staticwebassets\msbuild.build.GraduationProject.props
+D:\GraduationProject\GraduationProject\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.GraduationProject.props
+D:\GraduationProject\GraduationProject\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.GraduationProject.props
+D:\GraduationProject\GraduationProject\obj\Release\net8.0\staticwebassets.pack.json
+D:\GraduationProject\GraduationProject\obj\Release\net8.0\scopedcss\bundle\GraduationProject.styles.css
+D:\GraduationProject\GraduationProject\obj\Release\net8.0\Graduati.DD91A7C0.Up2Date
+D:\GraduationProject\GraduationProject\obj\Release\net8.0\GraduationProject.dll
+D:\GraduationProject\GraduationProject\obj\Release\net8.0\refint\GraduationProject.dll
+D:\GraduationProject\GraduationProject\obj\Release\net8.0\GraduationProject.pdb
+D:\GraduationProject\GraduationProject\obj\Release\net8.0\GraduationProject.genruntimeconfig.cache
+D:\GraduationProject\GraduationProject\obj\Release\net8.0\ref\GraduationProject.dll
+D:\GraduationProject\GraduationProject\bin\Release\net8.0\GraduationProject.staticwebassets.runtime.json
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\appsettings.Development.json
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\appsettings.json
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\GraduationProject.staticwebassets.runtime.json
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\GraduationProject.exe
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\GraduationProject.deps.json
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\GraduationProject.runtimeconfig.json
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\GraduationProject.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\GraduationProject.pdb
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Azure.Core.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Azure.Identity.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\FluentAssertions.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Humanizer.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\MailKit.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.CodeAnalysis.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.Data.SqlClient.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.Extensions.DependencyModel.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.Extensions.Identity.Core.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.Extensions.Identity.Stores.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.Identity.Client.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.OpenApi.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.PowerBI.Api.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.Rest.ClientRuntime.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.SqlServer.Server.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Microsoft.Win32.SystemEvents.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\MimeKit.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Mono.TextTemplating.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\NETCore.MailKit.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Newtonsoft.Json.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Newtonsoft.Json.Bson.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\BouncyCastle.Crypto.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\System.CodeDom.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\System.Composition.AttributedModel.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\System.Composition.Convention.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\System.Composition.Hosting.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\System.Composition.Runtime.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\System.Composition.TypedParts.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\System.Drawing.Common.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\System.Memory.Data.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\System.Runtime.Caching.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\System.Security.Permissions.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\System.Windows.Extensions.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\UserManagmentService.dll
+G:\new project\GraduationProject\GraduationProject\bin\Release\net8.0\UserManagmentService.pdb
+G:\new project\GraduationProject\GraduationProject\obj\Release\net8.0\GraduationProject.csproj.AssemblyReference.cache
+G:\new project\GraduationProject\GraduationProject\obj\Release\net8.0\GraduationProject.GeneratedMSBuildEditorConfig.editorconfig
+G:\new project\GraduationProject\GraduationProject\obj\Release\net8.0\GraduationProject.AssemblyInfoInputs.cache
+G:\new project\GraduationProject\GraduationProject\obj\Release\net8.0\GraduationProject.AssemblyInfo.cs
+G:\new project\GraduationProject\GraduationProject\obj\Release\net8.0\GraduationProject.csproj.CoreCompileInputs.cache
+G:\new project\GraduationProject\GraduationProject\obj\Release\net8.0\GraduationProject.MvcApplicationPartsAssemblyInfo.cs
+G:\new project\GraduationProject\GraduationProject\obj\Release\net8.0\GraduationProject.MvcApplicationPartsAssemblyInfo.cache
+G:\new project\GraduationProject\GraduationProject\obj\Release\net8.0\staticwebassets.build.json
+G:\new project\GraduationProject\GraduationProject\obj\Release\net8.0\staticwebassets.development.json
+G:\new project\GraduationProject\GraduationProject\obj\Release\net8.0\staticwebassets\msbuild.GraduationProject.Microsoft.AspNetCore.StaticWebAssets.props
+G:\new project\GraduationProject\GraduationProject\obj\Release\net8.0\staticwebassets\msbuild.build.GraduationProject.props
+G:\new project\GraduationProject\GraduationProject\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.GraduationProject.props
+G:\new project\GraduationProject\GraduationProject\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.GraduationProject.props
+G:\new project\GraduationProject\GraduationProject\obj\Release\net8.0\staticwebassets.pack.json
+G:\new project\GraduationProject\GraduationProject\obj\Release\net8.0\scopedcss\bundle\GraduationProject.styles.css
+G:\new project\GraduationProject\GraduationProject\obj\Release\net8.0\Graduati.DD91A7C0.Up2Date
+G:\new project\GraduationProject\GraduationProject\obj\Release\net8.0\GraduationProject.dll
+G:\new project\GraduationProject\GraduationProject\obj\Release\net8.0\refint\GraduationProject.dll
+G:\new project\GraduationProject\GraduationProject\obj\Release\net8.0\GraduationProject.pdb
+G:\new project\GraduationProject\GraduationProject\obj\Release\net8.0\GraduationProject.genruntimeconfig.cache
+G:\new project\GraduationProject\GraduationProject\obj\Release\net8.0\ref\GraduationProject.dll

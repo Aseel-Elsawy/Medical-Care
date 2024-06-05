@@ -1,0 +1,56 @@
+D:\GraduationProject\UserManagmentService\bin\Debug\net8.0\UserManagmentService.deps.json
+D:\GraduationProject\UserManagmentService\bin\Debug\net8.0\UserManagmentService.dll
+D:\GraduationProject\UserManagmentService\bin\Debug\net8.0\UserManagmentService.pdb
+D:\GraduationProject\UserManagmentService\obj\Debug\net8.0\UserManagmentService.csproj.AssemblyReference.cache
+D:\GraduationProject\UserManagmentService\obj\Debug\net8.0\UserManagmentService.GeneratedMSBuildEditorConfig.editorconfig
+D:\GraduationProject\UserManagmentService\obj\Debug\net8.0\UserManagmentService.AssemblyInfoInputs.cache
+D:\GraduationProject\UserManagmentService\obj\Debug\net8.0\UserManagmentService.AssemblyInfo.cs
+D:\GraduationProject\UserManagmentService\obj\Debug\net8.0\UserManagmentService.csproj.CoreCompileInputs.cache
+D:\GraduationProject\UserManagmentService\obj\Debug\net8.0\UserManagmentService.dll
+D:\GraduationProject\UserManagmentService\obj\Debug\net8.0\refint\UserManagmentService.dll
+D:\GraduationProject\UserManagmentService\obj\Debug\net8.0\UserManagmentService.pdb
+D:\GraduationProject\UserManagmentService\obj\Debug\net8.0\ref\UserManagmentService.dll
+D:\GraduationProject\UserManagmentService\bin\Debug\net8.0\UserManagmentService.runtimeconfig.json
+D:\GraduationProject\UserManagmentService\obj\Debug\net8.0\UserManagmentService.genruntimeconfig.cache
+C:\Users\Asel\Desktop\GraduationProject\UserManagmentService\bin\Debug\net8.0\UserManagmentService.deps.json
+C:\Users\Asel\Desktop\GraduationProject\UserManagmentService\bin\Debug\net8.0\UserManagmentService.runtimeconfig.json
+C:\Users\Asel\Desktop\GraduationProject\UserManagmentService\bin\Debug\net8.0\UserManagmentService.dll
+C:\Users\Asel\Desktop\GraduationProject\UserManagmentService\bin\Debug\net8.0\UserManagmentService.pdb
+C:\Users\Asel\Desktop\GraduationProject\UserManagmentService\obj\Debug\net8.0\UserManagmentService.csproj.AssemblyReference.cache
+C:\Users\Asel\Desktop\GraduationProject\UserManagmentService\obj\Debug\net8.0\UserManagmentService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asel\Desktop\GraduationProject\UserManagmentService\obj\Debug\net8.0\UserManagmentService.AssemblyInfoInputs.cache
+C:\Users\Asel\Desktop\GraduationProject\UserManagmentService\obj\Debug\net8.0\UserManagmentService.AssemblyInfo.cs
+C:\Users\Asel\Desktop\GraduationProject\UserManagmentService\obj\Debug\net8.0\UserManagmentService.csproj.CoreCompileInputs.cache
+C:\Users\Asel\Desktop\GraduationProject\UserManagmentService\obj\Debug\net8.0\UserManagmentService.dll
+C:\Users\Asel\Desktop\GraduationProject\UserManagmentService\obj\Debug\net8.0\refint\UserManagmentService.dll
+C:\Users\Asel\Desktop\GraduationProject\UserManagmentService\obj\Debug\net8.0\UserManagmentService.pdb
+C:\Users\Asel\Desktop\GraduationProject\UserManagmentService\obj\Debug\net8.0\UserManagmentService.genruntimeconfig.cache
+C:\Users\Asel\Desktop\GraduationProject\UserManagmentService\obj\Debug\net8.0\ref\UserManagmentService.dll
+E:\OneDrive\Desktop\GraduationProject\UserManagmentService\bin\Debug\net8.0\UserManagmentService.deps.json
+E:\OneDrive\Desktop\GraduationProject\UserManagmentService\bin\Debug\net8.0\UserManagmentService.runtimeconfig.json
+E:\OneDrive\Desktop\GraduationProject\UserManagmentService\bin\Debug\net8.0\UserManagmentService.dll
+E:\OneDrive\Desktop\GraduationProject\UserManagmentService\bin\Debug\net8.0\UserManagmentService.pdb
+E:\OneDrive\Desktop\GraduationProject\UserManagmentService\obj\Debug\net8.0\UserManagmentService.csproj.AssemblyReference.cache
+E:\OneDrive\Desktop\GraduationProject\UserManagmentService\obj\Debug\net8.0\UserManagmentService.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\Desktop\GraduationProject\UserManagmentService\obj\Debug\net8.0\UserManagmentService.AssemblyInfoInputs.cache
+E:\OneDrive\Desktop\GraduationProject\UserManagmentService\obj\Debug\net8.0\UserManagmentService.AssemblyInfo.cs
+E:\OneDrive\Desktop\GraduationProject\UserManagmentService\obj\Debug\net8.0\UserManagmentService.csproj.CoreCompileInputs.cache
+E:\OneDrive\Desktop\GraduationProject\UserManagmentService\obj\Debug\net8.0\UserManagmentService.dll
+E:\OneDrive\Desktop\GraduationProject\UserManagmentService\obj\Debug\net8.0\refint\UserManagmentService.dll
+E:\OneDrive\Desktop\GraduationProject\UserManagmentService\obj\Debug\net8.0\UserManagmentService.pdb
+E:\OneDrive\Desktop\GraduationProject\UserManagmentService\obj\Debug\net8.0\UserManagmentService.genruntimeconfig.cache
+E:\OneDrive\Desktop\GraduationProject\UserManagmentService\obj\Debug\net8.0\ref\UserManagmentService.dll
+G:\new project\GraduationProject\UserManagmentService\bin\Debug\net8.0\UserManagmentService.deps.json
+G:\new project\GraduationProject\UserManagmentService\bin\Debug\net8.0\UserManagmentService.runtimeconfig.json
+G:\new project\GraduationProject\UserManagmentService\bin\Debug\net8.0\UserManagmentService.dll
+G:\new project\GraduationProject\UserManagmentService\bin\Debug\net8.0\UserManagmentService.pdb
+G:\new project\GraduationProject\UserManagmentService\obj\Debug\net8.0\UserManagmentService.csproj.AssemblyReference.cache
+G:\new project\GraduationProject\UserManagmentService\obj\Debug\net8.0\UserManagmentService.GeneratedMSBuildEditorConfig.editorconfig
+G:\new project\GraduationProject\UserManagmentService\obj\Debug\net8.0\UserManagmentService.AssemblyInfoInputs.cache
+G:\new project\GraduationProject\UserManagmentService\obj\Debug\net8.0\UserManagmentService.AssemblyInfo.cs
+G:\new project\GraduationProject\UserManagmentService\obj\Debug\net8.0\UserManagmentService.csproj.CoreCompileInputs.cache
+G:\new project\GraduationProject\UserManagmentService\obj\Debug\net8.0\UserManagmentService.dll
+G:\new project\GraduationProject\UserManagmentService\obj\Debug\net8.0\refint\UserManagmentService.dll
+G:\new project\GraduationProject\UserManagmentService\obj\Debug\net8.0\UserManagmentService.pdb
+G:\new project\GraduationProject\UserManagmentService\obj\Debug\net8.0\UserManagmentService.genruntimeconfig.cache
+G:\new project\GraduationProject\UserManagmentService\obj\Debug\net8.0\ref\UserManagmentService.dll
